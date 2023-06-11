@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BesinlerKitabi</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="besin_foto_raf">Besin Fotoğrafı</string>
+    <string name="image">Image</string>
+    <string name="error_message">Verileri yüklerken bir hata oluştu.</string>
+</resources>
